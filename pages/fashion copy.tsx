@@ -5,5 +5,5 @@ export const InspirationWrapper = styled.div`
   padding-right: 25px;
 `
 export default function Home() {
-  return <InspirationWrapper></InspirationWrapper>
+  return <>FASHION</>
 }
